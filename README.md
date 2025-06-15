@@ -86,3 +86,28 @@ pip install -r requirements.txt
 ```bash
 streamlit run smartprocure_dashboard.py
 ```
+
+```bash
+SmartProcure/
+│
+├── smartprocure_dashboard.py         # Streamlit app
+├── SmartProcureProject.ipynb         # Main notebook with EDA + Modeling
+├── realistic_kraljic_dataset.csv     # Dataset
+├── rf_classifier.pkl                 # Trained classification model
+├── rf_regressor.pkl                 # Trained regression model
+├── dashboard_preview.png             # Dashboard UI screenshot
+├── requirements.txt
+└── README.md
+```
+
+```
+
+---
+
+### ✅ To Use
+
+1. Save this content in a file named `README.md` in your GitHub repo.
+2. Place your dashboard screenshot in the repo as `dashboard_preview.png`.
+
+Let me know if you also want a PDF version for submission or a DOCX export.
+```
